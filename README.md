@@ -1,6 +1,6 @@
 # Hola!
 
-Mi nombre es **Cristian**. Actualmente soy SysAdmin pero estoy estudiando y trabajando día a día para reconvertirme en Frontend Developer. Sí, yo también sé que suena raro pero me estoy esforzando por conseguirlo. 🏋🏾‍
+Mi nombre es **Cristian**. Soy Linux SysAdmin. Actualmente estoy enfocado en mejorar mis skills tanto con Python, Docker, Kubernetes, AWS y mucho más.
 
 Puedes seguirme en:
 
