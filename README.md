@@ -9,6 +9,5 @@ Puedes seguirme en:
 - [Instagram](https://www.instagram.com/barckcode.dev/)
 - [LinkedIn](https://www.linkedin.com/in/barckcode)
 
-O visitar mi [**blog**](https://barckcode.dev/). Donde escribo sobre distintos temas. Especialmente relacionados con desarrollo web.
-
+O visitar mi [**blog**](https://barckcode.dev/). Donde escribo sobre algunas de las tecnologías mencionadas.
 
