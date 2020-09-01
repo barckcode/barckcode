@@ -6,7 +6,7 @@ En mi tiempo libre también me gusta jugar con otras áreas. En especial con el 
 Puedes seguirme en:
 
 - [Twitter](https://twitter.com/barckcode)
-- [Instagram](https://www.instagram.com/barckcode.dev/)
+- [Instagram](https://www.instagram.com/barckcodev)
 - [LinkedIn](https://www.linkedin.com/in/barckcode)
 
 O visitar mi [**blog**](https://barckcode.dev/). Donde escribo sobre algunas de las tecnologías mencionadas.
