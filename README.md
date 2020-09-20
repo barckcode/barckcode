@@ -7,7 +7,7 @@ En mi tiempo libre también me gusta jugar con otras áreas. En especial con el 
 También me gusta hacer Cheat Sheets para ayudarme a recordar comandos o para ayudar a quienes están empezando a tener pequeñas guías rápidas:
 
 - [CheatSheet Bash](https://gist.github.com/BarckCode/b15089d9baccc9349796700feddfdbef)
-- [CheatSheet Docker Básico](https://twitter.com/barckcode)
+- [CheatSheet Docker Básico](https://gist.github.com/BarckCode/4a700124e86ed5521be41756ff12e811)
 
 En redes sociales puedes seguirme en:
 
