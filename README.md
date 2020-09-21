@@ -1,6 +1,6 @@
 # Hola!
 
-Mi nombre es **Cristian**. Soy Linux SysAdmin. Actualmente estoy enfocado en mejorar mis skills tanto con Python, Docker, Kubernetes, AWS y mucho más.
+Mi nombre es **Cristian**. Soy Linux SysAdmin. Actualmente estoy enfocado en mejorar mis skills tanto con Python, Docker, Kubernetes y Cloud.
 
 En mi tiempo libre también me gusta jugar con otras áreas. En especial con el Desarrollo web y con la automatización de procesos. Por lo que también podrás encontrar algunos de mis proyectos personales.
 
