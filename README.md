@@ -16,3 +16,5 @@ En redes sociales puedes seguirme en:
 - [GitLab](https://gitlab.com/barckcode)
 
 O visitar mi [**blog**](https://barckcode.dev/). Donde escribo sobre algunas de las tecnologías mencionadas.
+
+> He pasado los proyectos que voy a seguir continuando a [GitLab](https://gitlab.com/barckcode). Y todos los nuevos proyectos los iré subiendo a los repositorios de [GitLab](https://gitlab.com/barckcode).😜
