@@ -4,7 +4,7 @@ Mi nombre es **Cristian**. Soy Linux SysAdmin. Actualmente estoy enfocado en mej
 
 En mi tiempo libre también me gusta jugar con otras áreas. En especial con el Desarrollo web y con la automatización de procesos. Por lo que también podrás encontrar algunos de mis proyectos personales.
 
-También me gusta hacer CheatSheets para consultar algo específico o para ayudar a quienes están empezando con pequeñas guías rápidas:
+CheatSheets:
 
 - [CheatSheet Bash](https://gist.github.com/BarckCode/b15089d9baccc9349796700feddfdbef)
 
