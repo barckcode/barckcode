@@ -8,7 +8,7 @@ CheatSheets:
 
 - [CheatSheet Bash](https://gist.github.com/BarckCode/b15089d9baccc9349796700feddfdbef)
 
-En redes sociales puedes seguirme en:
+Puedes seguirme en:
 
 - [Twitter](https://twitter.com/barckcode)
 - [LinkedIn](https://www.linkedin.com/in/barckcode)
