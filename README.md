@@ -6,7 +6,7 @@ En mi tiempo libre también me gusta jugar con otras áreas. En especial con el 
 
 <p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helmcode&show_icons=true&locale=en&layout=compact&theme=dark" alt="helmcode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmcode&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
+<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmcode&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
 
 Puedes seguirme en:
 
