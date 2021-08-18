@@ -4,6 +4,10 @@ Mi nombre es **Cristian**. Soy Linux SysAdmin. Actualmente estoy enfocado en mej
 
 En mi tiempo libre también me gusta jugar con otras áreas. En especial con el Desarrollo Web, con la automatización de procesos y últimamente con IoT. Por lo que también podrás encontrar algunos de mis proyectos personales.
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=helmcode&show_icons=true&locale=en&layout=compact" alt="helmcode" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmcode&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
+
 Puedes seguirme en:
 
 - [Twitter](https://twitter.com/helmcode)
