@@ -8,8 +8,9 @@ En mi tiempo libre también me gusta jugar con otras áreas. En especial con el 
 
 <p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmcode&show_icons=true&theme=dark&locale=en" alt="helmcode" /></p>
 
-Puedes seguirme en:
 
-- [Twitter](https://twitter.com/helmcode)
-- [LinkedIn](https://www.linkedin.com/in/helmcode)
-- [DockerHub](https://hub.docker.com/u/barckcode)
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/helmcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helmcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/helmcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helmcode" height="30" width="40" /></a>
+</p>
