@@ -1,4 +1,4 @@
-# Hola!
+<h1 align="center">Hola!</h1>
 
 Mi nombre es **Cristian**. Soy SRE y llevo administrando infraestructuras principalmente de aplicaciones web durante varios años.
 Las tecnologías con las que más he trabajado son Linux, Bash, Python, Ansible, Terraform, Docker...
