@@ -14,4 +14,6 @@ En mi tiempo libre también me gusta jugar con otras áreas. En especial con el 
 <p align="center">
 <a href="https://twitter.com/helmcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helmcode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/helmcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helmcode" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCzVsNKj-tr_VMw0tKoRoD7g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="helmcode" height="30" width="40" /></a>
+<a href="www.tiktok.com/@helmcode" target="blank"><img align="center" src="https://s3.eu-west-1.amazonaws.com/static.helmcode.com/images/about/tiktok.svg" alt="helmcode" height="30" width="40" /></a>
 </p>
